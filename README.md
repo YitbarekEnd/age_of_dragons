@@ -24,8 +24,7 @@ Age of Dragons is a kind of real-time strategy and resource management game wher
 ## Installation
 1. **Clone the repository**
 ```bash
-git clone [https://github.com/YitbarekEnd/age_of_dragons
-.git](https://github.com/YitbarekEnd/age_of_dragons.gi)
+git clone https://github.com/YitbarekEnd/age_of_dragons.git
 cd age_of_dragons
 ```
 2.**Setup the environment**
